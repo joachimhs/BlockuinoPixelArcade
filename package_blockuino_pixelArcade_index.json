@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "blockuino",
+      "name": "BlockuinoPixelArcade",
       "maintainer": "Joachim Haagen Skeie",
       "websiteURL": "https://github.com/joachimhs/BlockuinoPixelArcade",
       "email": "joachim@skaperiet.no",
