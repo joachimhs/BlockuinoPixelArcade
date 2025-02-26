@@ -1,0 +1,2 @@
+BlockuinoBasicPixelFigure	KEYWORD1
+BasicPixelFigure			KEYWORD1
